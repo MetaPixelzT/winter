@@ -1,4 +1,4 @@
-# WorkAdventure Map Starter Kit
+# WorkAdventure map Starter Kit
 
 ![map](./map.png)
 
@@ -10,7 +10,7 @@ To understand how to use this starter kit, follow the tutorial at [https://worka
 * *public*: Static files like PDFs or audio files
 * *src*: Scripts files
 * *tilesets*: All tilesets
-* *map.tmj*: Map file
+* *map.tmj*: map file
 * *map.png*: The map thumbnail displayed on the in-game map information
 
 If you want to use more than one map file, just add the new map file on root or in a folder.
@@ -21,7 +21,7 @@ If you are going to create custom websites to embed in the map, please reference
 
 ## Requirements
 
-Node.js version >=17
+Node.js version >=16
 
 ## Installation
 
@@ -45,7 +45,7 @@ npm run prod
 This project contains multiple licenses as follows:
 
 * [Code license](./LICENSE.code) *(all files except those for other licenses)*
-* [Map license](./LICENSE.map) *(`map.tmj` and the map visual as well)*
+* [map license](./LICENSE.map) *(`map.tmj` and the map visual as well)*
 * [Assets license](./LICENSE.assets) *(the files inside the `src/assets/` folder)*
 
 ### About third party assets
